@@ -9,7 +9,7 @@ P=[0.25,0.75];
 x=mnrnd(1,P,1);
 tally=tally+x
 tally_matrix=[tally;tally;tally];
-
+%%% Booooooooooooriiiiiito
 ab=ab+tally_matrix
 plotbetapdfs(ab,sp_idx,tally);
 
